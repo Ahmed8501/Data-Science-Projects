@@ -1,4 +1,4 @@
-This repository contains three data science projects showcasing predictive modeling and analysis using machine learning techniques. Each project focuses on a different aspect of data science, aiming to solve specific problems and derive insights from the datasets used.
+#### This repository contains three data science projects showcasing predictive modeling and analysis using machine learning techniques. Each project focuses on a different aspect of data science, aiming to solve specific problems and derive insights from the datasets used.
 
 ## **Projects Overview:**
 ## 1. Customer Churn Prediction using Decision Tree Classifier
