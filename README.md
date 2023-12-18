@@ -1,8 +1,8 @@
 This repository contains three data science projects showcasing predictive modeling and analysis using machine learning techniques. Each project focuses on a different aspect of data science, aiming to solve specific problems and derive insights from the datasets used.
 
-Projects Overview
-1. Customer Churn Prediction using Decision Tree Classifier
-Objective: Predict customer churn for a telecom company using a decision tree classifier.
+**Projects Overview**
+### 1. Customer Churn Prediction using Decision Tree Classifier
+### Objective: Predict customer churn for a telecom company using a decision tree classifier.
 
 Description: This project aims to analyze customer behavior data and predict whether a customer is likely to churn or not. The decision tree classifier is utilized to create a model that predicts churn based on various features such as usage patterns, service subscription details, and customer demographics.
 
